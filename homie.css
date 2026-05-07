@@ -250,8 +250,10 @@
 .button-style1 {
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   border-style:hidden;
+  padding: 5px 10px;
   border-color: gold;
   background-color: rgba(22, 16, 56, 0.637);
+  border-radius: 5px;
   color: white;
   cursor:pointer;
 }
